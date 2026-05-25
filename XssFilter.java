@@ -23,7 +23,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  * 跨站脚本攻击过滤类.
- * <p>描述:过滤跨站脚本攻击</p>444
+ * <p>描述:过滤跨站脚本攻击</p>4445
  * <p>Company:上海中信信息发展股份有限公司</p>333
  * @author Reamy(杨木江 yangmujiang@sohu.com)222333
  * @date 2013-02-20  16:16:20
